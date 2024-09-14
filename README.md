@@ -1,5 +1,7 @@
 # React + Vite
 
+A React application which converts one currency to another based on the latest currency rates. The latest currency rates are fetched through a currency API.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
